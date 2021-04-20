@@ -6,7 +6,7 @@ This project uses the CSI camera on raspberry pi to take photos. You can put the
 
 * [Background](#Background)
 * [Introduction](#Introduction)
-  * [Software and hardware](##Software and hardware)
+  * [Software and hardware](##SoftwareAndHardware)
   * [Installation](##Installation)
   * [Usage](##Usage)
   * [Precautions](##Precautions)
@@ -20,7 +20,7 @@ I found an C++ API that allowed me to control the camera( you can find details h
 
 ## Introduction
 
-### Software and hardware
+### SoftwareAndHardware
 
 #### Software
 
