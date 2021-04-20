@@ -1,0 +1,3 @@
+/home/pi/Desktop/Mycam/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/Mycam/build/CMakeFiles/simpletest_raspicam.dir
+/home/pi/Desktop/Mycam/build/CMakeFiles/edit_cache.dir
